@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavanya Varshney</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src-"https://www.bing.com/ck/a?!&&p=73f07b4234cfba29688c80556e45057777a5c5c7dc1151acdc2382984282a2baJmltdHM9MTczNTk0ODgwMA&ptn=3&ver=2&hsh=4&fclid=26aa1766-c9ef-691e-0923-03bbc81d6837&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCUyMGNvZGluZyUyMGdpZiUyMGZvciUyMGdpdGh1YiUyMGdpcmwmRk9STT1JUUZSQkEmaWQ9RkM5NEQ0NThCNTYxRjQ1NTQ0QUUxNzM1ODFEN0ZCREZCM0I4OTJDRg&ntb=1">
+<img align="right" alt="coding" width="400" src-"https://th.bing.com/th?id=OIP.YE-uRCE8HJCsKCNXUiQ2pAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavavarshney" alt="lavavarshney" /></a> </p>
